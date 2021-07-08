@@ -2,7 +2,7 @@
 I changed the display of this plugins to meet my expectations
 # Demo with picture
 <div>
-  <p>here is the image of the display if we change the mode to carousel</p>
+  <p color="red">here is the image of the display if we change the mode to carousel</p>
   <img src="Screenshot_2.png" width="350" title="hover text" display="block">
 </div>
 <div>
